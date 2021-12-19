@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/drawable/button_border.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/drawable/button_border_int.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/drawable/splash.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/drawable/toolbar_dropshadow.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_change_email.xml" value="0.1140625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_deleted_account.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_login_history.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_my_interest.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_other_users.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_pet_detaile.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_pet_list.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_profile.xml" value="0.1140625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/activity_register.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/interest_item.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/loadingscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/logins.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/nav_header.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/layout/other_user_list.xml" value="0.4563953488372093" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Doggee/app/src/main/res/menu/nav_drawer_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Administrator/Downloads/DoggeForLife-Team6-master/app/src/main/res/layout/activity_change_email.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/Administrator/Downloads/DoggeForLife-Team6-master/app/src/main/res/layout/activity_deleted_account.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/Administrator/Downloads/DoggeForLife-Team6-master/app/src/main/res/layout/activity_login.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/Administrator/Downloads/DoggeForLife-Team6-master/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/Administrator/Downloads/DoggeForLife-Team6-master/app/src/main/res/layout/activity_my_interest.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/Administrator/Downloads/DoggeForLife-Team6-master/app/src/main/res/layout/activity_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Administrator/Downloads/DoggeForLife-Team6-master/app/src/main/res/layout/nav_header.xml" value="0.10144927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
